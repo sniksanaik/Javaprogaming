@@ -6,5 +6,9 @@ class NaimishFile{
         System.out.println("sfdkjbgksjdn");
         System.out.println("sfdkjbgksjdn");
 
+        System.out.println("12222");
+        System.out.println("wrwr");
+        System.out.println("wradasdwr");
+
     }
 }
